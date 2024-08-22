@@ -1,0 +1,30 @@
+.logo{
+    width:50px;
+}
+.section{
+    margin: 0 30px;
+}
+.sectionTitle{
+    font-weight: bold;
+    font-size: 14px;
+    color: #FFF;
+    text-align: start;
+}
+.sectionDes{
+    font-size: 12px;
+    display: inline-block;
+    text-align: start;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+}
+.contactItem{
+    font-size: 12px;
+    line-height: 20px;
+}
+.contactlabel{
+    width: 50px;
+    display: inline-block;
+}
